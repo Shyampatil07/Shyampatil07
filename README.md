@@ -1,6 +1,6 @@
 <h1>Hi there 👋 I'm Shyam Lade</h1>
 
-🚀 I’m a <b>Artifical Intelligence & Data Science Engineering student at SPPU, Pune</b>, currently in my final year, with a passion for <b.Full Stack Web Development, Software Engineering,</b> and <b>Machine Learning</b>.<br><br>
+🚀 I’m a <b>Artifical Intelligence & Data Science Engineering student at SPPU, Pune</b>, currently in my final year, with a passion for <b>Full Stack Web Development, Software Engineering,</b> and <b>Machine Learning</b>.<br><br>
 <b>🔭 What I’m working on:</b><br>
     - Enhancing everyday experiences by building innovative and impactful technology solutions.<br>
     - Continuously pushing boundaries in <b>software development</b> to create efficient, scalable, and user-centric applications<br>
@@ -26,7 +26,7 @@
 
 <b>🌍 Let's connect:</b><br>
       LinkedIn: https://www.linkedin.com/in/shyam-lade-patil-o7/<br>
-    GitHub: <br>
+    GitHub: https://github.com/Shyampatil07<br>
   
 
 <b>📫 Reach me at: shyamlade06@gmail.com</b><br>
