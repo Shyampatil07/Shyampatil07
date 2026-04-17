@@ -12,21 +12,21 @@
 
 <b>💼 My Experience:</b><br>
     <b>Full Stack Developer</b>
-    Created several projects, including:<br>
+    Created several projects, including:<br><br>
       <b>  Wanderlust </b>| Node.js, Express.js, MongoDB, REST API, JWT, EJS, MVC Architecture | GitHub<br>
 • Developed a full-stack hotel booking web application using user auth, property listing, and secure booking
 functionality.<br>
 • Implemented secure login/signup with<b> JWT-based authentication and authorization</b>, dynamic routing, and
 real-time form validation.<br>
 • Deployed using Render and Database online on <b>MongoDB Atlas</b>.<br>
-• Used <b>RESTful APIs </b>for CRUD operations, booking , reviews and styled responsive UI using HTML, CSS, React.<br>
+• Used <b>RESTful APIs </b>for CRUD operations, booking , reviews and styled responsive UI using HTML, CSS, React.<br><br>
 <b>QuickMeet</b> | WebRTC, Node.js, Socket.io, Express.js, MongoDB, JavaScript, EJS, Postman | GitHub<br>
 • Developed a scalable full-stack video conferencing application enabling real-time peer-to-peer communication using
 <b>WebRTC</b>.<br>
 • Implemented secure signaling and real-time messaging using<b> Node.js, Express,</b> and <b>Socket.io</b>.<br>
 • Built features such as multi-user video/audio calls, screen sharing, real-time chat messaging, and room-based
 meeting system.<br>
-• Managed backend APIs and database operation using MongoDB, Deployed using on Render.<br>
+• Managed backend APIs and database operation using MongoDB, Deployed using on Render.<br><br>
 <b>StockEdge </b>| Node.js, Express.js, React.js, Material UI, MongoDB, JWT, React Hook | GitHub<br>
 • Developed a full-stack stock trading platform with secure authentication, buy/sell functionality and real-time stock
 data visualization.<br>
