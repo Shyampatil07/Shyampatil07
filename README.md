@@ -13,27 +13,27 @@
 <b>💼 My Experience:</b><br>
     <b>Full Stack Developer</b>
     Created several projects, including:<br>
-      <b>  Wanderlust </b>| Node.js, Express.js, MongoDB, REST API, JWT, EJS, MVC Architecture | GitHub
+      <b>  Wanderlust </b>| Node.js, Express.js, MongoDB, REST API, JWT, EJS, MVC Architecture | GitHub<br>
 • Developed a full-stack hotel booking web application using user auth, property listing, and secure booking
-functionality.
+functionality.<br>
 • Implemented secure login/signup with<b> JWT-based authentication and authorization</b>, dynamic routing, and
-real-time form validation.
-• Deployed using Render and Database online on <b>MongoDB Atlas</b>.
-• Used <b>RESTful APIs </b>for CRUD operations, booking , reviews and styled responsive UI using HTML, CSS, React.
-<b>QuickMeet</b> | WebRTC, Node.js, Socket.io, Express.js, MongoDB, JavaScript, EJS, Postman | GitHub
+real-time form validation.<br>
+• Deployed using Render and Database online on <b>MongoDB Atlas</b>.<br>
+• Used <b>RESTful APIs </b>for CRUD operations, booking , reviews and styled responsive UI using HTML, CSS, React.<br>
+<b>QuickMeet</b> | WebRTC, Node.js, Socket.io, Express.js, MongoDB, JavaScript, EJS, Postman | GitHub<br>
 • Developed a scalable full-stack video conferencing application enabling real-time peer-to-peer communication using
-<b>WebRTC</b>.
-• Implemented secure signaling and real-time messaging using<b> Node.js, Express,</b> and <b>Socket.io</b>.
+<b>WebRTC</b>.<br>
+• Implemented secure signaling and real-time messaging using<b> Node.js, Express,</b> and <b>Socket.io</b>.<br>
 • Built features such as multi-user video/audio calls, screen sharing, real-time chat messaging, and room-based
-meeting system.
-• Managed backend APIs and database operation using MongoDB, Deployed using on Render.
-<b>StockEdge </b>| Node.js, Express.js, React.js, Material UI, MongoDB, JWT, React Hook | GitHub
+meeting system.<br>
+• Managed backend APIs and database operation using MongoDB, Deployed using on Render.<br>
+<b>StockEdge </b>| Node.js, Express.js, React.js, Material UI, MongoDB, JWT, React Hook | GitHub<br>
 • Developed a full-stack stock trading platform with secure authentication, buy/sell functionality and real-time stock
-data visualization.
-• Designed and implemented<b> RESTful APIs </b>using Node.js and Express.js for trading operations.
+data visualization.<br>
+• Designed and implemented<b> RESTful APIs </b>using Node.js and Express.js for trading operations.<br>
 • Built responsive and dynamic UI using React, Tailwind CSS, MUI, and Bootstrap and integrated <b>Chart.js</b> for
-interactive stock price visualization and analytics.
-• Integrated MongoDB for efficient data storage and portfolio management.
+interactive stock price visualization and analytics.<br>
+• Integrated MongoDB for efficient data storage and portfolio management.<br>
       
     
 
