@@ -30,6 +30,6 @@
   
 
 <b>📫 Reach me at: shyamlade06@gmail.com</b><br>
-<b>📫 My Portfolio: [Shyam](https://personal-portfolio-delta-indol.vercel.app/)</b><br>
+<b>📫 My Portfolio: [Shyam's Portfolio](https://personal-portfolio-delta-indol.vercel.app/)</b><br>
 
 ⚡ Fun fact: I love solving data structure and algorithm problems, with 500+ solved across multiple platforms!<br>
